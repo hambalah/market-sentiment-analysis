@@ -1,0 +1,13 @@
+numpy==2.0.1
+pandas==2.2.2
+requests==2.32.3
+selenium==4.27.1
+beautifulsoup4==4.12.3
+pycrypto==2.6.1
+pycryptodome==3.21.0
+streamlit==1.44.1
+plotly==5.22.0
+matplotlib==3.10.1
+seaborn==0.13.1
+scikit-learn==1.6.1
+statsmodels==0.14.2
